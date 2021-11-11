@@ -25,7 +25,7 @@ body{
     transform: rotate(-20deg);
 }
 
-.circle-conatiner{
+.circle-container{
     position: fixed;
     top: -100px;
     left: -100px;
